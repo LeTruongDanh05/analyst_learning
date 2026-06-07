@@ -10,7 +10,7 @@
 
 * **problem 3: Market Basket Analysis & Cross-Selling**
   Uncovers latent consumer buying behavior by detecting product categories frequently co-purchased within the same transactional lifecycle. These natural product affinities provide a data-driven foundation for dynamic recommendation engines and bundled pricing strategies.
-   *View full report & insights:* [esult_problem_3.xlsx](./results/result_problem_3.xlsx)
+   *View full report & insights:* [result_problem_3.xlsx](./results/result_problem_3.xlsx)
 
 * **Problem 4: Pareto Principle & Partner Ecosystem Health**
   Proves a textbook 18/80 structural concentration on the Olist platform, where a critical minority of sellers (17.58%) commands the vast majority (80%) of total revenue. This visibility allows management to hedge concentration risks through strategic account retention while scaling long-tail merchants via automation.
