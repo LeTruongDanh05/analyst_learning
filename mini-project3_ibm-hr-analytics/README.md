@@ -1,6 +1,7 @@
-# Mini-Project 3: IBM HR Employee Attrition & Performance Analytics
+# IBM HR Employee Attrition & Performance Analytics
 
-##Overview
+## Overview
+
 This project focuses on analyzing employee attrition and workplace satisfaction using the **IBM HR Analytics Dataset**. By leveraging Advanced SQL queries (including Window Functions and Common Table Expressions - CTEs), the analysis uncovers critical workforce dynamics, tracks turnover rates across departments, evaluates the impact of business travel, and evaluates salary equity against employee retention.
 
 The final data-driven insights aim to provide HR leaders with actionable recommendations to improve employee retention, optimize compensation strategies, and enhance overall workplace satisfaction.
